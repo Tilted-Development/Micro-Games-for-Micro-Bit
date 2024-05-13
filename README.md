@@ -3,7 +3,7 @@
 <h2><em>In Repository</em></h2>
 
 <ul>
-<li>Crashy Bird <em>(Flappy Bird Remake! Contains: Score, Highscore (My best is <strong>60!</strong>) and <strong>LOTS OF BUGS!</strong>)</em>
+<li>Crashy Bird <em>(Flappy Bird Remake! Contains: Score, Highscore (My best is <strong>65!</strong>) and <strong>LOTS OF BUGS!</strong>)</em>
 </ul>
 
 <h2><em>To Be Added</em></h2>
